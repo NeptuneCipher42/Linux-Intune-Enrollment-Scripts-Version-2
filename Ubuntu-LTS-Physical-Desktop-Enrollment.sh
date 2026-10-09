@@ -1,7 +1,7 @@
 #!/bin/bash
 #################################################################################################
 # Author: Nicholas Fisher
-# Date: March 23rd 2026
+# Date: October 10th 2026
 # Description of Script
 # This Bash script prepares an Azure VM running Ubuntu 22.04 for Microsoft Intune enrollment.
 # It checks if GNOME is already running and if not, installs a minimal GNOME desktop environment
