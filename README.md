@@ -23,7 +23,7 @@
 ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   ╚══════╝
 ```
 
-### Automated Bash scripts for enrolling Linux machines into Microsoft Intune
+### Automated Bash scripts for enrolling Linux machines into Microsoft Intune Version 2
 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
