@@ -2,6 +2,7 @@
 #################################################################################################
 # Author: Nicholas Fisher
 # Version: 2.1
+# Date: October 10th 2026
 # Description:
 # Prepares an Azure VM running Ubuntu LTS for Microsoft Intune enrollment.
 # Detects the Ubuntu version at runtime, so it works on current and future LTS releases
