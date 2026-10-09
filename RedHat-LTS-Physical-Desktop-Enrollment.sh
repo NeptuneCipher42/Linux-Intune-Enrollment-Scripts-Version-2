@@ -2,7 +2,7 @@ cat > intune-prep-rhel-v1.sh << 'EOF'
 #!/bin/bash
 #################################################################################################
 # Author: Nicholas Fisher
-# Date: March 24th 2026
+# Date: October 10th 2026
 # Description of Script
 # This Bash script prepares a physical device running RHEL 8/9 for Microsoft Intune enrollment.
 # It checks if GNOME is running and installs it if not, installs Microsoft Edge and the Intune
