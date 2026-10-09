@@ -93,11 +93,11 @@ sudo ./Ubtuntun-26.04-LTS-Intune-Enrollment.sh
 | Your system | Azure VM | Physical desktop | Script |
 |---|:---:|:---:|---|
 | **Ubuntu 26.04 LTS** | ✅ | ✅ | `Ubtuntun-26.04-LTS-Intune-Enrollment.sh` |
-| **Ubuntu 24.04 LTS** | ✅ | ✅ | `Ubtuntun-26.04-LTS-Intune-Enrollment.sh` |
+| **Ubuntu 24.04 LTS** | ✅ | ✅ | `Ubtuntun-26.04-LTS-Intune-Enrollment.sh`, `Ubuntu-LTS-Enrollment-Azure-VM-22.04-24.sh` |
 | **RHEL 10** | ✅ | ✅ | `RHEL-9-RHEL-10-Intune-Enrollment.sh` |
-| **RHEL 9** | ✅ | ✅ | `RHEL-9-RHEL-10-Intune-Enrollment.sh` |
+| **RHEL 9** | ✅ | ✅ | `RHEL-9-RHEL-10-Intune-Enrollment.sh`, `RHEL-8-9-Enrollment-Azure-VM.sh` |
 | Ubuntu 22.04 LTS *(legacy)* | ✅ | ✅ | `Ubuntu-LTS-Enrollment-Azure-VM-22.04-24.sh` / `Ubuntu-LTS-Physical-Desktop-Enrollment-22.04-24..sh` |
-| RHEL 8 *(legacy)* | ✅ | ✅ | `RHEL-8-Enrollment-Azure-VM.sh` / `RHEL-8-Physical-Desktop-Enrollment.sh` |
+| RHEL 8 *(legacy)* | ✅ | ✅ | `RHEL-8-Enrollment-Azure-VM.sh` / `RHEL-8-9-Physical-Desktop-Enrollment.sh` |
 | Future LTS releases | ✅ | ✅ | v3 scripts — allowed automatically once Microsoft publishes a repo for them |
 
 Microsoft currently supports **Ubuntu Desktop 24.04 / 26.04 LTS** and **RHEL 9 / 10** on **x86_64** (physical, Azure VM or Hyper-V), with a **GNOME** desktop. Ubuntu 22.04 and RHEL 8 have been dropped from the official list, so the v3 scripts block them unless you pass `--force`.
