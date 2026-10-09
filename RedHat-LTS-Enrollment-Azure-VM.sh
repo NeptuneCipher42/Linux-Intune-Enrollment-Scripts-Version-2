@@ -2,7 +2,7 @@ cat > test.sh << 'EOF'
 #!/bin/bash
 #################################################################################################
 # Author: Nicholas Fisher
-# Date: March 24th 2026
+# Date: October 10th 2026
 # Description of Script
 # This Bash script prepares an Azure VM running RHEL 8/9 for Microsoft Intune enrollment.
 # It installs EPEL, xrdp, tigervnc-server, opens the firewall port, then installs
