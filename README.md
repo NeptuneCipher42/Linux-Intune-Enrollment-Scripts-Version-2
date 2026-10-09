@@ -39,7 +39,7 @@
 </div>
 
 > [!NOTE]
-> 🚧 **Work in progress.** I'm still testing and improving the new v3 scripts for each distro and hope to have the final versions up soon. The legacy scripts are kept in the repo, unchanged, for older systems.
+> 🚧 **Work in progress.** I'm still testing and improving the new v3 scripts for RHEL 10 and Ubuntu 26.04 and hope to have the final versions up soon. The legacy scripts are kept in the repo, unchanged, for older systems and are in working order.
 
 > [!IMPORTANT]
 > **Sign in to Microsoft Edge _before_ opening the Intune app.** Skipping the Edge sign-in causes enrollment error **`4ulu5`**.
